@@ -105,7 +105,7 @@ Start the application:
 python GenericAI.py
 ```
 
-The Gradio interface will provide a local URL (e.g., `http://127.0.0.1:5656`). Open the URL in your browser to interact with GenericAI.
+The Gradio interface will provide a local URL (e.g., `http://127.0.0.1:8080`). Open the URL in your browser to interact with GenericAI.
 
 ### Interacting with GenericAI
 
