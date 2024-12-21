@@ -201,7 +201,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io/){:target="_blank"} for enabling step-by-step reasoning and acting to solve complex problems.
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io/) for enabling step-by-step reasoning and acting to solve complex problems.
 - [LangChain](https://langchain.com/) for its powerful framework for language model applications.
 - [Gradio](https://gradio.app/) for its user-friendly interface creation tools.
 - [MongoDB](https://www.mongodb.com/) for scalable storage of chat histories.
